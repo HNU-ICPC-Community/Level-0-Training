@@ -1,4 +1,4 @@
-// G. Sail
+// G. Sail 
 
 #include<bits/stdc++.h>
 using namespace std;
