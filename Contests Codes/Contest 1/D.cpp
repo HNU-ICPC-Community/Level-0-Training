@@ -1,9 +1,6 @@
 // D. Cut Ribbon
 
-#include <iostream>
-#include <cmath>
-#include <algorithm>
-#include <string.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void FileIO() {

@@ -1,8 +1,6 @@
 // A. Color Clash
 
-#include <iostream>
-#include <algorithm>
-#include <string.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void FileIO() {

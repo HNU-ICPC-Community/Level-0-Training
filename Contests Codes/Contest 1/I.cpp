@@ -1,7 +1,6 @@
 // I. Sasa Man's Box
 
-#include <iostream>
-#include <algorithm>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main()
