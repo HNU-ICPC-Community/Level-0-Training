@@ -20,8 +20,7 @@ Our Level 0 training is designed for beginners and newcomers to competitive prog
    - Vector, Pair, Deque, Queue, Priority Queue, Stack
 7. **Standard Template Library (STL) - Part 2**
    - Set, Multiset, Ordered Set, Unordered Set, Map, Unordered Map
-8. **Complexity Analysis**
-9. **Basic Math & Geometry**
+8. **Basic Math & Geometry**
 
 ## Session Recordings
 All training sessions and materials are available on **[our website](https://www.hnu-icpc.com/)**
