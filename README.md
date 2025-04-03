@@ -1,6 +1,6 @@
 # HNU ICPC Community
 
-Welcome to the **ICPC Community - Helwan National University** repository. This repository contains solutions for all problem sheets and contests from our training program.
+Welcome to the **ICPC Community - Helwan National University** repository. This repository contains solutions for all problem sheets and contests from our training program..
 
 ## Community Links
 - **[Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests)**
