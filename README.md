@@ -1,4 +1,4 @@
-# HNU ICPC Communiy
+# HNU ICPC Community
 
 Welcome to the **ICPC Community - Helwan National University** repository. This repository contains solutions for all problem sheets and contests from our training program.
 
