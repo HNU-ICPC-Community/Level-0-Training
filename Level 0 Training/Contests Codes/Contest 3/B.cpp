@@ -1,7 +1,6 @@
 // B. Buy a Shovel
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
 // ans  = n * k (- r)
