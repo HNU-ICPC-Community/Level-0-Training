@@ -28,5 +28,3 @@ Ready to level up? 🎮 Tackle each Codeforces problem with gusto—give it 1, 2
     - 📄 `Problems Tutorial`: Explains the concept for each problem in the contest.  
 
 Happy coding! 💡 Let’s conquer ICPC together! 🥇
-
----
