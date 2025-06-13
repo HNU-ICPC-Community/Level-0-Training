@@ -1,30 +1,32 @@
-# HNU ICPC Community
+# 🎉 Level-0-Training 🎉
 
-Welcome to the **ICPC Community - Helwan National University** repository. This repository contains solutions for all problem sheets and contests from our training program..
+Welcome to the **Level-0-Training** repository of the ICPC HNU Community! 🚀 This is your go-to hub for solutions to Codeforces problems used in our Level 0 training sheets and contests. 🌟
 
-## Community Links
-- **[Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests)**
-- **[Facebook Page](https://www.facebook.com/fcsit.hnu.icpc)**
-- **[WhatsApp Group](https://chat.whatsapp.com/L7uXmt7mBCWDiReg7VFh49)**
+## 📋 What’s Inside
+- 📂 **Sheets Solutions & Tutorials**: Solutions and tutorials for our six training sheets (from [Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests)).  
+- 📂 **Contests Solutions**: Solutions for problems from our six contests (from [Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests)).  
+- 🌐 **Session Explanations**: Full training session details are on our [website](https://www.hnu-icpc.com)! 🎥  
 
-## Training - Level 0
-Our Level 0 training is designed for beginners and newcomers to competitive programming. The topics covered include:
+## 🎯 Purpose
+We’re here to help you sharpen your coding skills, master algorithms, and prepare for ICPC with beginner-friendly solutions. 💻
 
-1. **Introduction to Problem Solving**
-2. **Data Types, Conditions, and Loops**
-3. **Arrays and Strings**
-4. **Functions, Structs & Complexity Analysis**
-5. **Ad-Hoc Techniques**
-   - Frequency Array, Prefix Sum, Partial Sum, 2D Prefix Sum
-6. **Standard Template Library (STL) - Part 1**
-   - Vector, Pair, Deque, Queue, Priority Queue, Stack
-7. **Standard Template Library (STL) - Part 2**
-   - Set, Multiset, Ordered Set, Unordered Set, Map, Unordered Map
-8. **Basic Math & Geometry**
+## 🚀 Get Involved
+- 🌱 **New Members**: Check out the solutions and follow along with sheets on [Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests)!  
+- 📢 **Learn More**: Visit our [website](https://www.hnu-icpc.com) for session explanations and updates.  
 
-## Session Recordings
-All training sessions and materials are available on **[our website](https://www.hnu-icpc.com/)**
+## 📌 How to Use
+Ready to level up? 🎮 Tackle each Codeforces problem with gusto—give it 1, 2, 3 tries to crack it on your own! 🧠 If you hit a wall, dive into the tutorial on our [website](https://www.hnu-icpc.com) to unlock the concept like a pro. 🌟 Then, peek at the code and `Problems Tutorial` in this repo to see how it all comes together. Happy problem-solving! 💡
+
+## 📂 Folder Structure
+- **Sheets Solutions & Tutorials**:  
+  - 📁 `Sheet1`, `Sheet2`, ..., `Sheet6` (one folder per sheet)  
+    - 📄 Code files for each problem (e.g., `problem1.cpp`)  
+    - 📄 `Problems Tutorial`: Explains the concept for each problem in the sheet.  
+- **Contests Solutions**:  
+  - 📁 `Contest1`, `Contest2`, ..., `Contest6` (one folder per contest)  
+    - 📄 Code files for each problem (e.g., `problemA.cpp`)  
+    - 📄 `Problems Tutorial`: Explains the concept for each problem in the contest.  
+
+Happy coding! 💡 Let’s conquer ICPC together! 🥇
 
 ---
-For any inquiries, feel free to contact us through our official channels.
-
