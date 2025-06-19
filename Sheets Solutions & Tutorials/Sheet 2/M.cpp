@@ -7,42 +7,28 @@ int main()
 {
     string str;
     cin >> str;
-
-    if (str.size() != 4)
+    bool valid = 0;
+    int cnt = 0;
+    int freq[26] = {};
+    
+    for (int i = 0; i < 4; i++)
     {
-        cout << "NO" << endl;
-        return 0;
+        freq[str[i] - 'A']++;
     }
 
-    int freq[256] = {0};
-    for (char c : str)
+    for (int i = 0; i < 26; i++)
     {
-        freq[c]++;
-    }
-
-    int uniqueCount = 0;
-    bool valid = true;
-    for (int i = 0; i < 256; i++)
-    {
-        if (freq[i] > 0)
+        if (freq[i] == 2)
         {
-            uniqueCount++;
-            if (freq[i] != 2)
-            {
-                valid = false;
-                break;
-            }
+            cnt++;
+        }
+        if (cnt == 2)
+        {
+            cout << "YES" << endl;
+            return 0;
         }
     }
-
-    if (uniqueCount == 2 && valid)
-    {
-        cout << "YES" << endl;
-    }
-    else
-    {
-        cout << "NO" << endl;
-    }
+    cout << "NO" << endl;
 
     return 0;
 }
