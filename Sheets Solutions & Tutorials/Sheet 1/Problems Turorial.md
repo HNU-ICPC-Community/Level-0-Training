@@ -1,6 +1,6 @@
-# 📚 Problems Tutorial
+# 📚 Sheet 1 Tutorial
 
-Welcome to the tutorial for the problems in our Level 0 training! 🚀 This guide explains the concepts behind each Codeforces problem from our [Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests). Try solving each problem 1-2-3 times before checking this tutorial, then click to reveal the explanations to master the logic! 🌟
+Welcome to the tutorial for the Sheet 1 problems in our CP training! 🚀 This guide explains the concepts behind each problem from our [Codeforces Group](https://codeforces.com/group/elwkSKiCvi/contests). Try solving each problem 1-2-3 times before checking this tutorial, then click to reveal the explanations to master the logic! 🌟
 
 ## Problem A: Welcome to Our Training
 <details>
